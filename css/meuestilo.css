@@ -1,0 +1,26 @@
+body{
+    background-color: darkgrey;
+}
+header{
+    background-color: aqua;
+    padding: 3%;
+}
+nav{
+    background-color: cadetblue;
+}
+main{
+    background-color: chartreuse;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+section{
+    background-color: burlywood;
+}
+footer{
+    background-color: blueviolet;
+    /* dhfjsagfsadf */
+}
+.logo{
+    background-color: red;
+}
