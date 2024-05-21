@@ -48,8 +48,6 @@ p{
 #menu ul { 
     padding:0px;
     margin:0px;
-    /* background-color:#EDEDED; */
-    /* background-color: rgba(255, 255, 255, 0.5); */
     list-style:none;
     display: flex;
 }
@@ -74,10 +72,8 @@ p{
 
 /* FIM DA FORMATAÇÃO DO MENU */
 
-nav{
-    /* background-color: cadetblue; */
-    width: 80%;
-    
+nav{    
+    width: 80%;    
 }
 
 
@@ -109,12 +105,10 @@ h1,h2,p,li,figcaption{
     color: #fff;
 }
 
-.figure-container {
+.caixa-imagem {
     text-align: center;
-    margin-top: 1%;
-    
+    margin-top: 1%;    
 }
-
 
 figure {
     text-align: center;
